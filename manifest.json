@@ -1,0 +1,10 @@
+{
+  "id": "gh-ob-vault-sync",
+  "name": "Github Private Vault Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.11.4",
+  "description": "Sync vault via GitHub account.",
+  "author": "uneaowu",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
